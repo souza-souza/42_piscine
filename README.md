@@ -11,7 +11,7 @@ Este repositório reúne os trabalhos realizados ao longo da minha participaçã
 - Shell (Shell00, Shell01)
 - C (C00 a C06)
 - Rushes
-- 
+  
 ## Objetivos
 
 - Desenvolver lógica de programação
